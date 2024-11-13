@@ -151,6 +151,8 @@ LoRA’s low-rank adaptation offers several benefits for applications outside of
 1. [LoRA Paper](https://arxiv.org/abs/2106.09685)
 2. [Original Video Explanation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 3. [Code Implementation](https://www.youtube.com/watch?v=iYr1xZn26R8&t=17s)
+4. [Intrinsic Dimensionality Paper](https://arxiv.org/abs/2012.13255)
+5. [Microsoft LoRA Repo](https://github.com/microsoft/lora)
 
 ## Repo
 This repository includes:
