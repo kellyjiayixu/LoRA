@@ -156,6 +156,7 @@ LoRA’s low-rank adaptation offers several benefits for applications outside of
 This repository includes:
 - A README with a detailed overview.
 - A Jupyter notebook with LoRA code demonstration.
+- Video presentation
 
 ## Citation for Paper
 Hu, E., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, L., & Chen, W. (2021). LoRA: Low-Rank Adaptation of Large Language Models. arXiv preprint arXiv:2106.09685.
